@@ -2,6 +2,24 @@ body{
     background: #BDBDBD;
 }
 
+/*
 .container{
     border-style: solid;
+}
+*/
+
+.section{
+    border-style: solid;
+    margin: 5px 50px 5px 50px;
+    padding: 50px;
+    align-content: center;
+   
+}
+
+.heading h1 {
+  color: black; 
+}
+
+.heading span {
+  color: rgb(153, 153, 153)
 }

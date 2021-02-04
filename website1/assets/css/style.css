@@ -23,3 +23,18 @@ body{
 .heading span {
   color: rgb(153, 153, 153)
 }
+
+.tag_line{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 80px;
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+.p_line{
+    font-family: verdana;
+  font-size: 50px;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: white;
+}

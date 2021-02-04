@@ -12,16 +12,21 @@ Fusce dapibus, tellus ac cursus commodo. </p>
 
   <form action="/action_page.php"></form>
 
-    <div class="form-horizontal">
+    <div class="form-group row" class="col-sm-4 col-form-label">
       <label for="email">Your E-mail</label>
-      <input type="email" class="form-control" id="email" placeholder="Your E-mail " name="email">
+       <div class="col-sm-5">
+          <input type="email" class="form-control" id="email" placeholder="Your E-mail " name="email">
+       </div>
     </div>
 
-    <div class="form-horizontal">
-      <label for="message">Your message</label>
-      <textarea class="form-control" rows="3" id="message" placeholder="Please enter your message here.."></textarea>
+    <div class="form-group row" class="col-sm-4 col-form-label">
+      <label for="message" >Your message</label>
+      <div class="col-sm-5">
+        <textarea class="form-control" rows="3" id="message" placeholder="Please enter your message here.."></textarea>
+      </div>
     </div>
       
+    
     <button type="submit" class="btn btn-primary">Submit</button>
 
   </form>

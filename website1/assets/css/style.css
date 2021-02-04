@@ -50,16 +50,17 @@ body{
     left: 10px;
 }
 .centrado{
-    border-style: solid;
+    /* border-style: solid; */
     background-color: white;
     margin: auto;
     position: absolute;
     top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
-}
+    width: 100%;
+   }
 .centrado2{
-    border-style: solid;
+    /* border-style: solid; */
     background-color: white;
     margin: auto;
     position: absolute;
@@ -67,6 +68,7 @@ body{
     left: 50%;
     padding: 0%;
     transform: translate(-50%, -50%);
+    width: 100%;
 }
 
 .img{

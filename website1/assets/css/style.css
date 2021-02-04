@@ -9,8 +9,8 @@ body{
 */
 
 .section{
-    border-style: solid;
-    border-color: red;
+    /*border-style: solid;
+    border-color: red;*/
     margin: 5px 100px 5px 100px;
     padding: 50px;
     align-content: center;   

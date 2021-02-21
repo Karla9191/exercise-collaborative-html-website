@@ -32,7 +32,7 @@ body{
     background-color: rgb(255, 255, 255);
 }
 .p_line{
-    font-family: verdana;
+  font-family: verdana;
   font-size: 50px;
   text-align: center;
   font-family: sans-serif;
@@ -73,4 +73,35 @@ body{
 
 .img{
     border-radius: 50%;background-color: blueviolet;
+}
+
+#btn-submit{
+    float: right;
+}
+
+#con-contact{
+    height:220px ;
+    width:700px ;
+}
+
+#txt-email{
+
+    float:right;
+    font-weight: bolder;
+    text-align: right;
+   
+}
+#txt-msg{
+    float:right;
+     font-weight: bolder;
+      text-align: right;
+}
+#message{
+
+    text-align: left;
+}
+
+#email{
+
+    text-align: left;
 }
